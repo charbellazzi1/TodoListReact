@@ -1,0 +1,10 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-image: url('/img/company-strategy-development-business-on-260nw-1891312300_LE_auto_x2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
